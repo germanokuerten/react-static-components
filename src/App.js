@@ -18,7 +18,6 @@ import WebsiteVisitors from "./components/WebsiteVisitors";
 function App () {
   return (
     <div className="appcontainer">
-      <h1> React Static Components</h1>
       <Sidebar/>
       <Reviews/>
       <AverageRating/>
