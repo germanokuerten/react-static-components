@@ -6,7 +6,7 @@ function Reviews () {
             <p>
                 Reviews
             </p>
-            <p>
+            <p className="reviewsnumbers">
                 1,281
             </p>
         </div>

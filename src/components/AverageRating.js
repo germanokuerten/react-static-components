@@ -6,7 +6,7 @@ function AverageRating () {
             <p>
                 Average Rating
             </p>
-            <p>
+            <p className="ratingnumbers">
                 4.6
             </p>
         </div>

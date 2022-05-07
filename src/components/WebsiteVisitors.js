@@ -6,7 +6,7 @@ function WebsiteVisitors () {
             <p>
                 Website Visitors
             </p>
-            <p>
+            <p className="visitorsnumbers">
                 821
             </p>
         </div>
